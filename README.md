@@ -1,2 +1,2 @@
 # CE888code
-please chack the assginment 1
+please check the assginment 1
