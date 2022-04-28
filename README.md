@@ -1,2 +1,2 @@
 # CE888code
-please check the assginment 1
+the assginment 2 code is in assginment2.ipynb
